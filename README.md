@@ -3,7 +3,7 @@
 ## What?
 
 a simple wrapper for the excellent:
-https://github.com/el-visio/dattorro-verb/tree/41e976a0228a2472156f5c010b3bfbb444e777d2
+https://github.com/el-visio/dattorro-verb/
 
 ## Why?
 
