@@ -7,7 +7,9 @@
 
 #include "example_class.h"
 
-#include "dattorro_verb/dattorro_verb.h" // my hook to 
+#include "dattorro_verb/dattorro_verb.h"
+
+
 
 using namespace godot;
 
@@ -18,6 +20,7 @@ void initialize_gdextension_types(ModuleInitializationLevel p_level) {
 
 	GDREGISTER_CLASS(ExampleClass);
 
+	// DattorroVerb hook
 	GDREGISTER_CLASS(AudioEffectDattorroVerbInstance);
 	GDREGISTER_CLASS(AudioEffectDattorroVerb);
 }

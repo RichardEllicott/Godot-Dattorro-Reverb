@@ -1,0 +1,8 @@
+[gd_resource type="AudioBusLayout" load_steps=2 format=3 uid="uid://8r8qkp04qmo"]
+
+[sub_resource type="AudioEffectDattorroVerb" id="AudioEffectDattorroVerb_j3pel"]
+resource_name = "DattorroVerb"
+
+[resource]
+bus/0/effect/0/effect = SubResource("AudioEffectDattorroVerb_j3pel")
+bus/0/effect/0/enabled = true

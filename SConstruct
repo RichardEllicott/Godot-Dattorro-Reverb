@@ -8,7 +8,7 @@ from methods import print_error
 from SCons.Script import *
 
 # libname = "EXTENSION-NAME"
-libname = "GDExtensionAudioS2" # new name, note that /demo/bin/example.gdextension needed to be changed
+libname = "DattorroVerb" # new name, note that /demo/bin/example.gdextension needed to be changed
 projectdir = "demo"
 
 source_folder = "src/" # top level folder

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c42dtedn55yu3"]
+
+[ext_resource type="AudioStream" uid="uid://cb1vscixiqd4f" path="res://sound/file_example_WAV_1MG.wav" id="1_6a81k"]
+
+[node name="DattorroVerbTest" type="Node"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("1_6a81k")
