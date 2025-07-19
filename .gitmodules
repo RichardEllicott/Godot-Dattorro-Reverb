@@ -2,3 +2,6 @@
 	path = godot-cpp
 	url = https://github.com/godotengine/godot-cpp.git
 	branch = 4.3
+[submodule "src/thirdparty/dattorro-verb"]
+	path = src/thirdparty/dattorro-verb
+	url = https://github.com/el-visio/dattorro-verb.git
