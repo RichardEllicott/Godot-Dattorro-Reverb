@@ -60,4 +60,6 @@ compile_commands.json
 # Cmake
 cmake-build*
 CMakeUserPresets.json
-/src/thirdparty
+
+
+/src/thirdparty/dattorro-verb
